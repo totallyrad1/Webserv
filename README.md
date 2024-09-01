@@ -50,6 +50,13 @@
 - **C++98 Standard**: The server is built using C++98, adhering to the project constraints.
 - **POSIX-Compatible OS**: Developed and tested on macOS, should work on any Unix-like system.
 
+# Contributors
+
+This project was a collaborative effort from the very beginning. Special thanks to my friend and teammate, Youssef mahni, for his hard work, dedication, and teamwork throughout the entire project. Together, we built this from the ground up.
+
+- [@totallyrad1](https://github.com/totallyrad1) - Asaad Naji
+- [@youssefmahni](https://github.com/youssefmahni) - Youssef Mahni
+
 # Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
