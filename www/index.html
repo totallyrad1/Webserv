@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<style>
+    body {
+        color: rgb(255, 0, 191);
+        margin: 0;
+        background-color: black;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    a {
+        box-shadow: 0px 0px 9px 1px rgb(255, 0, 191);
+        text-decoration: none;
+        color: rgb(255, 0, 191);
+        font-size: 2rem;
+        font-family: 'Courier New', Courier, monospace;
+        letter-spacing: 0.5rem;
+        text-align: center;
+        border: 1px solid rgb(255, 0, 191);
+        border-radius: 5px;
+        padding: 0.5rem 1rem;
+        margin: 0 1rem;
+        background-color: black;
+    }
+    a:hover {
+        background-color: rgb(255, 0, 191);
+        color: black;
+    }
+</style>
+<body>
+    <a id="login" >LOGIN</a>
+</body>
+</html>
+
+<script>
+    const btn = document.getElementById('login');
+    btn.href = window.location.href+"/../cgi/session.py";
+</script>
