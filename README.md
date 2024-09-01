@@ -54,5 +54,9 @@
 
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
 
+# Resources
+
+[Beej’s Guide to Network Programming](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
+
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
